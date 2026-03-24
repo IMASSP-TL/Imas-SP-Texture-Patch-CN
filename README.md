@@ -28,7 +28,7 @@
 
 ## ✨ 项目简介
 
-本项目基于 PPSSPP 的纹理替换功能，通过 Hash 映射将原始低分辨率贴图替换为高清贴图，提升偶像大师SP的游戏体验。
+本项目基于 [PPSSPP](https://www.ppsspp.org/) 的纹理替换功能，通过 Hash 映射将原始低分辨率贴图替换为高清贴图，提升偶像大师SP的游戏体验。
 
 ![Preview Texture](https://picui.ogmua.cn/s1/2026/03/24/69c1c927149b7.webp)
 
@@ -73,7 +73,7 @@
 
 ### 🧩 贡献流程
 
-1. 游玩不同剧情/场景，留意未能高清化的对话文字、背景
+1. [PPSSPP](https://www.ppsspp.org/)（PC，安卓，iOS均可）游玩不同剧情/场景，留意未能高清化的对话文字、背景
 2. 收集 `new/` 目录中的低分辨率贴图（可以按照修改时间排序快速查找）
 3. 找到`bg/`，`font/`对应高清贴图
 4. 更新 `textures.ini`（可以添加适量的注释）
@@ -152,7 +152,9 @@ ULJS00167 = textures.ini
 
 ## 💬 社区交流 | Community
 
-QQ 群：591676099
+- QQ 群：591676099
+- [参考文档 | 偶像大师SP 高清纹理包 使用说明](https://docs.qq.com/aio/DTWptbFdPTnNrbnJ1)
+- [参考文档 | 偶像大师SP 高清纹理包 制作教程](https://docs.qq.com/aio/DTU9WbGViZU94aW9J)
 
 ## ⚠️ 免责声明 | Disclaimer
 
