@@ -5,7 +5,26 @@
 
 ## 📑 目录
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Imas-SP-Texture-Patch-CN](#imas-sp-texture-patch-cn)
+  - [📑 目录](#-%E7%9B%AE%E5%BD%95)
+  - [✨ 项目简介](#-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B)
+    - [⚠️ 项目状态](#-%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81)
+    - [🎮 支持游戏](#-%E6%94%AF%E6%8C%81%E6%B8%B8%E6%88%8F)
+    - [🚀 使用方法](#-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
+  - [🤝 如何参与](#-%E5%A6%82%E4%BD%95%E5%8F%82%E4%B8%8E)
+    - [🧩 贡献流程](#%F0%9F%A7%A9-%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B)
+      - [✍️ 纹理包目录说明](#%EF%B8%8F-%E7%BA%B9%E7%90%86%E5%8C%85%E7%9B%AE%E5%BD%95%E8%AF%B4%E6%98%8E)
+      - [📌 示例1（背景纹理）](#-%E7%A4%BA%E4%BE%8B1%E8%83%8C%E6%99%AF%E7%BA%B9%E7%90%86)
+      - [📌 示例2（字体纹理）](#-%E7%A4%BA%E4%BE%8B2%E5%AD%97%E4%BD%93%E7%BA%B9%E7%90%86)
+    - [✅ Pull Request 规范](#-pull-request-%E8%A7%84%E8%8C%83)
+    - [❗ 提交Pr的方式](#-%E6%8F%90%E4%BA%A4pr%E7%9A%84%E6%96%B9%E5%BC%8F)
+  - [💬 社区交流 | Community](#-%E7%A4%BE%E5%8C%BA%E4%BA%A4%E6%B5%81--community)
+  - [⚠️ 免责声明 | Disclaimer](#-%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E--disclaimer)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## ✨ 项目简介
 
